@@ -1,0 +1,6 @@
+tmp*/
+.mapbox_token
+*.csv
+*.png
+__pycache__/
+env/

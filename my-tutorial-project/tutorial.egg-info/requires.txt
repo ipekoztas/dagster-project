@@ -1,0 +1,7 @@
+dagster
+dagster-cloud
+Faker==18.4.0
+
+[dev]
+dagit
+pytest
